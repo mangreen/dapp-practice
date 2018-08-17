@@ -1,0 +1,11 @@
+{
+  	"presets": [
+    	["env", {"modules": false}],
+    	"stage-2"
+  	],
+  	"plugins": [
+    	"transform-export-extensions",
+    	"transform-es3-member-expression-literals",
+    	"transform-es3-property-literals"
+  	]
+}

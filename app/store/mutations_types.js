@@ -1,0 +1,1 @@
+export const FETCH_COIN_INFO = 'FETCH_COIN_INFO';
