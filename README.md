@@ -19,5 +19,7 @@
 3. $ cd /dapp-practice, $ npm install
 4. $ ganache-cli --seed apple banana cherry
 5. $ cd /dapp-practice/helloCoin, $ truffle compile, $ truffle migrate --reset
-6. $ cd /dapp-practice, $ gulp
+6. $ cd /dapp-practice, 
+7. $ cp config/local-template.js config/local.js
+8. $ gulp
 
